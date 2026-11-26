@@ -8,7 +8,7 @@ This series focuses on visual intuition, technical understanding, mathematical f
 
 | # | Topic | Resources |
 |---|---|---|
-| 01 | Embeddings — How AI Represents Meaning | Coming soon |
+| 01 | Embeddings — How AI Represents Meaning | Uploaded |
 
 ## About the Series
 
